@@ -1,2 +1,2 @@
-# app-gold-android
-app-gold-android
+# app-merchant-android
+app-merchant-android
