@@ -1,2 +1,2 @@
 # android-app-merchant
-android app merchant by kotlin
+android app merchant by Kotlin
